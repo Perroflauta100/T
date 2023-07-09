@@ -1,0 +1,617 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="beINSPORTSMAX2.tr" tvg-name="TR: BEINSPORTS HABER FHD" tvg-logo="http://xui.bestipbox.com:8000/images/dd25b6eda65dbb1199a85843ec72f7f8.png" group-title="TURK BEINSPORT PAKETI",TR: BEINSPORTS HABER FHD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/229
+#EXTINF:-1 tvg-id="24.tr" tvg-name="TR: BEINSPORTS HABER HD" tvg-logo="http://xui.bestipbox.com:8000/images/dd25b6eda65dbb1199a85843ec72f7f8.png" group-title="TURK BEINSPORT PAKETI",TR: BEINSPORTS HABER HD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/1231
+#EXTINF:-1 tvg-id="LIGTV.tr" tvg-name="TR: BEIN SPORTS 1 4K" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=586" group-title="TURK BEINSPORT PAKETI",TR: BEIN SPORTS 1 4K
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/2137
+#EXTINF:-1 tvg-id="LIGTV.tr" tvg-name="TR: BEIN SPORTS 1 4K+" tvg-logo="" group-title="TURK BEINSPORT PAKETI",TR: BEIN SPORTS 1 4K+
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/86233
+#EXTINF:-1 tvg-id="LIGTV.tr" tvg-name="TR: BEIN SPORTS 1 FEED 1080" tvg-logo="" group-title="TURK BEINSPORT PAKETI",TR: BEIN SPORTS 1 FEED 1080
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/131625
+#EXTINF:-1 tvg-id="LIGTV.tr" tvg-name="TR: BEINSPORTS 1 FHD " tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=586" group-title="TURK BEINSPORT PAKETI",TR: BEINSPORTS 1 FHD 
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/1
+#EXTINF:-1 tvg-id="LIGTV.tr" tvg-name="TR: BEIN SPORTS 1 UHD " tvg-logo="" group-title="TURK BEINSPORT PAKETI",TR: BEIN SPORTS 1 UHD 
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/86232
+#EXTINF:-1 tvg-id="LIGTV.tr" tvg-name="TR: BEINSPORTS 1 HD" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=586" group-title="TURK BEINSPORT PAKETI",TR: BEINSPORTS 1 HD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/1560
+#EXTINF:-1 tvg-id="LIGTV.tr" tvg-name="TR: BEINSPORTS 1 HD  (EUROPA)" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=586" group-title="TURK BEINSPORT PAKETI",TR: BEINSPORTS 1 HD  (EUROPA)
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/1561
+#EXTINF:-1 tvg-id="24Kitchen" tvg-name="TR: BEINSPORTS 1 HD   (TURKIYE)" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=586" group-title="TURK BEINSPORT PAKETI",TR: BEINSPORTS 1 HD   (TURKIYE)
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/564
+#EXTINF:-1 tvg-id="LIGTV.tr" tvg-name="TR: BEINSPORTS 1 HD   (TTNET)" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=586" group-title="TURK BEINSPORT PAKETI",TR: BEINSPORTS 1 HD   (TTNET)
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/130
+#EXTINF:-1 tvg-id="LIGTV.tr" tvg-name="TR: BEINSPORTS 1 SD" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=586" group-title="TURK BEINSPORT PAKETI",TR: BEINSPORTS 1 SD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/5
+#EXTINF:-1 tvg-id="LIGTV2.tr" tvg-name="TR: BEINSPORTS 2 FHD" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=587" group-title="TURK BEINSPORT PAKETI",TR: BEINSPORTS 2 FHD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/2
+#EXTINF:-1 tvg-id="LIGTV2.tr" tvg-name="TR: BEINSPORTS 2 HD" tvg-logo="http://xui.bestipbox.com:8000/images/9eb9a5636a0319c98232cc011725619e.png" group-title="TURK BEINSPORT PAKETI",TR: BEINSPORTS 2 HD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/131
+#EXTINF:-1 tvg-id="LIGTV3.tr" tvg-name="TR: BEINSPORTS 3 FHD" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=588" group-title="TURK BEINSPORT PAKETI",TR: BEINSPORTS 3 FHD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/3
+#EXTINF:-1 tvg-id="LIGTV3.tr" tvg-name="TR: BEINSPORTS 3 HD" tvg-logo="http://xui.bestipbox.com:8000/images/9e7ea99b14d82e7315336fa6ddeca910.png" group-title="TURK BEINSPORT PAKETI",TR: BEINSPORTS 3 HD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/574
+#EXTINF:-1 tvg-id="LIGTV4.tr" tvg-name="TR: BEINSPORTS 4 FHD" tvg-logo="http://xui.bestipbox.com:8000/images/2e6e67c4cd38b87c758628474f38b726.png" group-title="TURK BEINSPORT PAKETI",TR: BEINSPORTS 4 FHD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/379
+#EXTINF:-1 tvg-id="LIGTV4.tr" tvg-name="TR: BEINSPORTS 4 HD" tvg-logo="http://xui.bestipbox.com:8000/images/2e6e67c4cd38b87c758628474f38b726.png" group-title="TURK BEINSPORT PAKETI",TR: BEINSPORTS 4 HD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/2372
+#EXTINF:-1 tvg-id="beINSPORTSMAX.tr" tvg-name="TR: b**N SPORTS 5 FHD" tvg-logo="" group-title="TURK BEINSPORT PAKETI",TR: b**N SPORTS 5 FHD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/132294
+#EXTINF:-1 tvg-id="24.tr" tvg-name="TR: b**N SPORTS 5 HD" tvg-logo="" group-title="TURK BEINSPORT PAKETI",TR: b**N SPORTS 5 HD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/132293
+#EXTINF:-1 tvg-id="beINSPORTSMAX.tr" tvg-name="TR: BEINSPORTS MAX 1  FHD" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=590" group-title="TURK BEINSPORT PAKETI",TR: BEINSPORTS MAX 1  FHD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/2784
+#EXTINF:-1 tvg-id="beINSPORTSMAX.tr" tvg-name="TR: BEINSPORTS MAX 1 HD" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=590" group-title="TURK BEINSPORT PAKETI",TR: BEINSPORTS MAX 1 HD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/924
+#EXTINF:-1 tvg-id="beINSPORTSMAX2.tr" tvg-name="TR: BEINSPORTS MAX 2  FHD" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=591" group-title="TURK BEINSPORT PAKETI",TR: BEINSPORTS MAX 2  FHD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/2785
+#EXTINF:-1 tvg-id="beINSPORTSMAX2.tr" tvg-name="TR: BEINSPORTS MAX 2 HD" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=591" group-title="TURK BEINSPORT PAKETI",TR: BEINSPORTS MAX 2 HD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/925
+#EXTINF:-1 tvg-id="SSport.tr" tvg-name="TR: S SPORT FHD" tvg-logo="http://sweden.bestipbox.com:8000/images/93c000ef10f21d855d89f6d30726ec08.jpg" group-title="TURK SPOR KANALLAR",TR: S SPORT FHD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/381
+#EXTINF:-1 tvg-id="SSport.tr" tvg-name="TR: S SPORT HD" tvg-logo="http://xui.bestipbox.com:8000/images/a8acf6e8303811ad7615a989e007d5b0.png" group-title="TURK SPOR KANALLAR",TR: S SPORT HD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/1499
+#EXTINF:-1 tvg-id="24Kitchen" tvg-name="TR: S SPORT 2 FHD" tvg-logo="http://xui.bestipbox.com:8000/images/a8acf6e8303811ad7615a989e007d5b0.png" group-title="TURK SPOR KANALLAR",TR: S SPORT 2 FHD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/2786
+#EXTINF:-1 tvg-id="SSport2.tr" tvg-name="TR: S SPORT 2 HD" tvg-logo="http://xui.bestipbox.com:8000/images/a8acf6e8303811ad7615a989e007d5b0.png" group-title="TURK SPOR KANALLAR",TR: S SPORT 2 HD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/2559
+#EXTINF:-1 tvg-id="SporSmart.tr" tvg-name="TR: SPORSMART FHD" tvg-logo="http://xui.bestipbox.com:8000/images/c110ff9ac6d3181d16b7894d45753aa5.png" group-title="TURK SPOR KANALLAR",TR: SPORSMART FHD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/254
+#EXTINF:-1 tvg-id="24.tr" tvg-name="TR: SPORSMART HD" tvg-logo="http://xui.bestipbox.com:8000/images/edbd17d6adcb737a7e51aa662b7b4672.png" group-title="TURK SPOR KANALLAR",TR: SPORSMART HD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/2509
+#EXTINF:-1 tvg-id="SporSmart2.tr" tvg-name="TR: SPORSMART 2 HD" tvg-logo="http://xui.bestipbox.com:8000/images/4d4d95f2475bd36f9f20879e25c3ce3e.png" group-title="TURK SPOR KANALLAR",TR: SPORSMART 2 HD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/16681
+#EXTINF:-1 tvg-id="" tvg-name="TR: TIVIBUSPOR HD" tvg-logo="http://germany.bestipbox.com:8000/images/3dbb89d2aff3250a6cfe01c38ffb58c1.jpg" group-title="TURK SPOR KANALLAR",TR: TIVIBUSPOR HD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/4
+#EXTINF:-1 tvg-id="" tvg-name="TR: TIVIBUSPOR  HD+" tvg-logo="" group-title="TURK SPOR KANALLAR",TR: TIVIBUSPOR  HD+
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/86111
+#EXTINF:-1 tvg-id="" tvg-name="TR: TIVIBUSPOR 1 HD" tvg-logo="http://sweden.bestipbox.com:8000/images/5f5468d54f2b86e7e60fac196581d7d0.jpg" group-title="TURK SPOR KANALLAR",TR: TIVIBUSPOR 1 HD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/322
+#EXTINF:-1 tvg-id="" tvg-name="TR: TIVIBUSPOR 1 HD+" tvg-logo="" group-title="TURK SPOR KANALLAR",TR: TIVIBUSPOR 1 HD+
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/86112
+#EXTINF:-1 tvg-id="24.tr" tvg-name="TR: TIVIBUSPOR 2 HD" tvg-logo="http://germany.bestipbox.com:8000/images/d0ea45b7ee1ce3a1f76daba43477c005.jpg" group-title="TURK SPOR KANALLAR",TR: TIVIBUSPOR 2 HD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/428
+#EXTINF:-1 tvg-id="" tvg-name="TR: TIVIBUSPOR 2 HD+" tvg-logo="" group-title="TURK SPOR KANALLAR",TR: TIVIBUSPOR 2 HD+
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/86113
+#EXTINF:-1 tvg-id="" tvg-name="TR: TIVIBUSPOR 3 FHD" tvg-logo="" group-title="TURK SPOR KANALLAR",TR: TIVIBUSPOR 3 FHD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/123561
+#EXTINF:-1 tvg-id="" tvg-name="TR: Tivibu Spor 4 FHD" tvg-logo="" group-title="TURK SPOR KANALLAR",TR: Tivibu Spor 4 FHD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/129571
+#EXTINF:-1 tvg-id="TRTSPOR.tr" tvg-name="TR: TRTSPOR FHD" tvg-logo="http://xui.bestipbox.com:8000/images/5daebbf294814b98f00bbeb1086ccca6.png" group-title="TURK SPOR KANALLAR",TR: TRTSPOR FHD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/573
+#EXTINF:-1 tvg-id="TRTSPOR.tr" tvg-name="TR: TRTSPOR HD" tvg-logo="http://germany.bestipbox.com:8000/images/5c74587ab89256f2e4267a2104377c69.png" group-title="TURK SPOR KANALLAR",TR: TRTSPOR HD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/45
+#EXTINF:-1 tvg-id="TRTSPOR.tr" tvg-name="TR: TRTSPOR SD" tvg-logo="http://xui.bestipbox.com:8000/images/5daebbf294814b98f00bbeb1086ccca6.png" group-title="TURK SPOR KANALLAR",TR: TRTSPOR SD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/572
+#EXTINF:-1 tvg-id="24.tr" tvg-name="TR: TRTSPOR YILDIZ HD" tvg-logo="http://xui.bestipbox.com:8000/images/7dadb330b39d52dcafa3ac4f7ce6ac91.png" group-title="TURK SPOR KANALLAR",TR: TRTSPOR YILDIZ HD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/2043
+#EXTINF:-1 tvg-id="24Kitchen" tvg-name="TR: A SPOR FHD" tvg-logo="http://sweden.bestipbox.com:8000/images/23c50fe260680f5588f565031c0b2add.jpg" group-title="TURK SPOR KANALLAR",TR: A SPOR FHD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/46
+#EXTINF:-1 tvg-id="ASpor.tr" tvg-name="TR: A SPOR HD" tvg-logo="http://xui.bestipbox.com:8000/images/aa1821b360d50f6e5eb294dfc9677546.png" group-title="TURK SPOR KANALLAR",TR: A SPOR HD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/371
+#EXTINF:-1 tvg-id="ASpor.tr" tvg-name="TR: A SPOR SD" tvg-logo="http://xui.bestipbox.com:8000/images/aa1821b360d50f6e5eb294dfc9677546.png" group-title="TURK SPOR KANALLAR",TR: A SPOR SD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/323
+#EXTINF:-1 tvg-id="GSTV.tr" tvg-name="TR: GS TV HD" tvg-logo="http://xui.bestipbox.com:8000/images/ca44bf1441a3e760129607551f08adc0.png" group-title="TURK SPOR KANALLAR",TR: GS TV HD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/311
+#EXTINF:-1 tvg-id="FBTV.tr" tvg-name="TR: FB TV HD" tvg-logo="http://xui.bestipbox.com:8000/images/a1014c0e0324bbaedd897b9080ad6fb9.png" group-title="TURK SPOR KANALLAR",TR: FB TV HD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/312
+#EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="TR: EUROSPORT 1 HD" tvg-logo="http://xui.bestipbox.com:8000/images/96182f0c753f4dfb1bb17c896a5e73e6.png" group-title="TURK SPOR KANALLAR",TR: EUROSPORT 1 HD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/730
+#EXTINF:-1 tvg-id="Eurosport2.fr" tvg-name="TR: EUROSPORT 2 HD" tvg-logo="http://xui.bestipbox.com:8000/images/0fe1059294737a13b3be68ddd2cd49bb.png" group-title="TURK SPOR KANALLAR",TR: EUROSPORT 2 HD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/731
+#EXTINF:-1 tvg-id="24.tr" tvg-name="TR: FIGHT NETWORK HD" tvg-logo="" group-title="TURK SPOR KANALLAR",TR: FIGHT NETWORK HD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/4651
+#EXTINF:-1 tvg-id="24KitchenTurkey.us" tvg-name="TR: FIGHT BOX HD" tvg-logo="http://xui.bestipbox.com:8000/images/9399b83e1818ba1f641c99722202e55e.png" group-title="TURK SPOR KANALLAR",TR: FIGHT BOX HD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/2987
+#EXTINF:-1 tvg-id="24.tr" tvg-name="TR: UFC Fight Pass HD" tvg-logo="http://xui.bestipbox.com:8000/images/931254267211da41b0a6a7d3508f9f1e.png" group-title="TURK SPOR KANALLAR",TR: UFC Fight Pass HD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/537
+#EXTINF:-1 tvg-id="" tvg-name="TR: SPORTS TV HD" tvg-logo="" group-title="TURK SPOR KANALLAR",TR: SPORTS TV HD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/129572
+#EXTINF:-1 tvg-id="" tvg-name="TR: NBA TV FHD" tvg-logo="" group-title="TURK SPOR KANALLAR",TR: NBA TV FHD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/82120
+#EXTINF:-1 tvg-id="24 TR" tvg-name="TR: NBA TV HD" tvg-logo="http://xui.bestipbox.com:8000/images/57c3473cd35d195ddea302f38af749b8.png" group-title="TURK SPOR KANALLAR",TR: NBA TV HD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/581
+#EXTINF:-1 tvg-id="TJKTV.tr" tvg-name="TR: TJK TV" tvg-logo="http://xui.bestipbox.com:8000/images/f8ee3c948a2490b597ee0b8f8d7fb2a2.png" group-title="TURK SPOR KANALLAR",TR: TJK TV
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/539
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPOR 1 FHD" tvg-logo="http://sweden.bestipbox.com:8000/images/370a85f0d05b1474b735a40dc74a712c.png" group-title="TURK EXXEN SPOR PAKETİ",TR: EXXEN SPOR 1 FHD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/82101
+#EXTINF:-1 tvg-id="" tvg-name="TR: Exxen Spor 1 HD" tvg-logo="http://sweden.bestipbox.com:8000/images/370a85f0d05b1474b735a40dc74a712c.png" group-title="TURK EXXEN SPOR PAKETİ",TR: Exxen Spor 1 HD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/82102
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPOR 2 FHD" tvg-logo="http://sweden.bestipbox.com:8000/images/370a85f0d05b1474b735a40dc74a712c.png" group-title="TURK EXXEN SPOR PAKETİ",TR: EXXEN SPOR 2 FHD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/82104
+#EXTINF:-1 tvg-id="" tvg-name="TR: Exxen Spor 2 HD" tvg-logo="http://sweden.bestipbox.com:8000/images/370a85f0d05b1474b735a40dc74a712c.png" group-title="TURK EXXEN SPOR PAKETİ",TR: Exxen Spor 2 HD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/82105
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPOR 3 FHD" tvg-logo="http://sweden.bestipbox.com:8000/images/370a85f0d05b1474b735a40dc74a712c.png" group-title="TURK EXXEN SPOR PAKETİ",TR: EXXEN SPOR 3 FHD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/82106
+#EXTINF:-1 tvg-id="" tvg-name="TR: Exxen Spor 3 HD" tvg-logo="http://sweden.bestipbox.com:8000/images/370a85f0d05b1474b735a40dc74a712c.png" group-title="TURK EXXEN SPOR PAKETİ",TR: Exxen Spor 3 HD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/82107
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPOR 4 FHD" tvg-logo="http://sweden.bestipbox.com:8000/images/370a85f0d05b1474b735a40dc74a712c.png" group-title="TURK EXXEN SPOR PAKETİ",TR: EXXEN SPOR 4 FHD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/82108
+#EXTINF:-1 tvg-id="" tvg-name="TR: Exxen Spor 4 HD" tvg-logo="http://sweden.bestipbox.com:8000/images/370a85f0d05b1474b735a40dc74a712c.png" group-title="TURK EXXEN SPOR PAKETİ",TR: Exxen Spor 4 HD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/82109
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPOR  5 FHD" tvg-logo="http://sweden.bestipbox.com:8000/images/370a85f0d05b1474b735a40dc74a712c.png" group-title="TURK EXXEN SPOR PAKETİ",TR: EXXEN SPOR  5 FHD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/82110
+#EXTINF:-1 tvg-id="" tvg-name="TR: Exxen Spor 5 HD" tvg-logo="http://sweden.bestipbox.com:8000/images/370a85f0d05b1474b735a40dc74a712c.png" group-title="TURK EXXEN SPOR PAKETİ",TR: Exxen Spor 5 HD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/82111
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPOR 6 FHD" tvg-logo="http://sweden.bestipbox.com:8000/images/370a85f0d05b1474b735a40dc74a712c.png" group-title="TURK EXXEN SPOR PAKETİ",TR: EXXEN SPOR 6 FHD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/82112
+#EXTINF:-1 tvg-id="" tvg-name="TR: Exxen Spor 6 HD" tvg-logo="" group-title="TURK EXXEN SPOR PAKETİ",TR: Exxen Spor 6 HD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/123800
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPOR 7 FHD" tvg-logo="" group-title="TURK EXXEN SPOR PAKETİ",TR: EXXEN SPOR 7 FHD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/82114
+#EXTINF:-1 tvg-id="" tvg-name="TR: Exxen Spor 7 HD" tvg-logo="" group-title="TURK EXXEN SPOR PAKETİ",TR: Exxen Spor 7 HD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/129573
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPOR 8 FHD" tvg-logo="" group-title="TURK EXXEN SPOR PAKETİ",TR: EXXEN SPOR 8 FHD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/123801
+#EXTINF:-1 tvg-id="" tvg-name="TR: SSport+ 1 HD" tvg-logo="http://germany.bestipbox.com:8000/images/2c8cb361dad22b10a0bdb9c8de615142.png" group-title="TURK SPOR KANALLAR",TR: SSport+ 1 HD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/82115
+#EXTINF:-1 tvg-id="" tvg-name="TR: SSport+ 2 HD" tvg-logo="" group-title="TURK SPOR KANALLAR",TR: SSport+ 2 HD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/82116
+#EXTINF:-1 tvg-id="" tvg-name="TR: SSport+ 3 HD" tvg-logo="" group-title="TURK SPOR KANALLAR",TR: SSport+ 3 HD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/82117
+#EXTINF:-1 tvg-id="" tvg-name="TR: SSport+ 4 HD" tvg-logo="" group-title="TURK SPOR KANALLAR",TR: SSport+ 4 HD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/82118
+#EXTINF:-1 tvg-id="" tvg-name="TR: SSport+ 5 HD" tvg-logo="" group-title="TURK SPOR KANALLAR",TR: SSport+ 5 HD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/82119
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN CONNET 1 (CANLIMAC)" tvg-logo="" group-title="TURK BEINSPORT PAKETI",TR: BEIN CONNET 1 (CANLIMAC)
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/132257
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN CONNET 2 (CANLIMAC)" tvg-logo="" group-title="TURK BEINSPORT PAKETI",TR: BEIN CONNET 2 (CANLIMAC)
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/132258
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN CONNET 3 (CANLIMAC)" tvg-logo="" group-title="TURK BEINSPORT PAKETI",TR: BEIN CONNET 3 (CANLIMAC)
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/132259
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN CONNET 4 (CANLIMAC)" tvg-logo="" group-title="TURK BEINSPORT PAKETI",TR: BEIN CONNET 4 (CANLIMAC)
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/132260
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN CONNET 5 (CANLIMAC)" tvg-logo="" group-title="TURK BEINSPORT PAKETI",TR: BEIN CONNET 5 (CANLIMAC)
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/132261
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN CONNET 6 (CANLIMAC)" tvg-logo="" group-title="TURK BEINSPORT PAKETI",TR: BEIN CONNET 6 (CANLIMAC)
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/132262
+#EXTINF:-1 tvg-id="24Kitchen" tvg-name="TR: BeIN SPORTS 1 FEED 4K HEVC [35MBIT]" tvg-logo="" group-title="TURK BEINSPORT PAKETI",TR: BeIN SPORTS 1 FEED 4K HEVC [35MBIT]
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/132291
+#EXTINF:-1 tvg-id="24Kitchen" tvg-name="TR: b**N SPORTS 1 FEED 4K HEVC [25 MBIT]" tvg-logo="" group-title="TURK BEINSPORT PAKETI",TR: b**N SPORTS 1 FEED 4K HEVC [25 MBIT]
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/132292
+
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 1 FHD" tvg-logo="" group-title="WORLD SPOR CHANNELS",AR: BEIN SPORTS 1 FHD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/88945
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 2 FHD" tvg-logo="" group-title="WORLD SPOR CHANNELS",AR: BEIN SPORTS 2 FHD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/88946
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 3 FHD" tvg-logo="" group-title="WORLD SPOR CHANNELS",AR: BEIN SPORTS 3 FHD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/88947
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 4 FHD" tvg-logo="" group-title="WORLD SPOR CHANNELS",AR: BEIN SPORTS 4 FHD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/88948
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 5 FHD" tvg-logo="" group-title="WORLD SPOR CHANNELS",AR: BEIN SPORTS 5 FHD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/88949
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 6 FHD" tvg-logo="" group-title="WORLD SPOR CHANNELS",AR: BEIN SPORTS 6 FHD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/88950
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 7 FHD" tvg-logo="" group-title="WORLD SPOR CHANNELS",AR: BEIN SPORTS 7 FHD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/88951
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 8 FHD" tvg-logo="" group-title="WORLD SPOR CHANNELS",AR: BEIN SPORTS 8 FHD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/88952
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 9 FHD" tvg-logo="" group-title="WORLD SPOR CHANNELS",AR: BEIN SPORTS 9 FHD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/88953
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 10 FHD" tvg-logo="" group-title="WORLD SPOR CHANNELS",AR: BEIN SPORTS 10 FHD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/88954
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 11 FHD" tvg-logo="" group-title="WORLD SPOR CHANNELS",AR: BEIN SPORTS 11 FHD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/88955
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 12 FHD" tvg-logo="" group-title="WORLD SPOR CHANNELS",AR: BEIN SPORTS 12 FHD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/88956
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Arena HD" tvg-logo="" group-title="WORLD SPOR CHANNELS",UK: Sky Sports Arena HD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/88957
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports F1" tvg-logo="" group-title="WORLD SPOR CHANNELS",UK: Sky Sports F1
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/88958
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Football HD" tvg-logo="" group-title="WORLD SPOR CHANNELS",UK: Sky Sports Football HD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/88959
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Golf HD" tvg-logo="" group-title="WORLD SPOR CHANNELS",UK: Sky Sports Golf HD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/88961
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Main Event HD" tvg-logo="" group-title="WORLD SPOR CHANNELS",UK: Sky Sports Main Event HD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/88962
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports News HD" tvg-logo="" group-title="WORLD SPOR CHANNELS",UK: Sky Sports News HD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/88963
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Premier League HD" tvg-logo="" group-title="WORLD SPOR CHANNELS",UK: Sky Sports Premier League HD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/88964
+#EXTINF:-1 tvg-id="" tvg-name="UK: EIR SPORT 1" tvg-logo="" group-title="WORLD SPOR CHANNELS",UK: EIR SPORT 1
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/88965
+#EXTINF:-1 tvg-id="" tvg-name="UK: EIR SPORT 2" tvg-logo="" group-title="WORLD SPOR CHANNELS",UK: EIR SPORT 2
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/88966
+#EXTINF:-1 tvg-id="" tvg-name="UK: EUROSPORT 1 HD" tvg-logo="" group-title="WORLD SPOR CHANNELS",UK: EUROSPORT 1 HD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/88968
+#EXTINF:-1 tvg-id="" tvg-name="UK: EUROSPORT 2 HD" tvg-logo="" group-title="WORLD SPOR CHANNELS",UK: EUROSPORT 2 HD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/88969
+#EXTINF:-1 tvg-id="" tvg-name="UK: BT Sport 1 HD" tvg-logo="" group-title="WORLD SPOR CHANNELS",UK: BT Sport 1 HD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/88971
+#EXTINF:-1 tvg-id="" tvg-name="UK: BT Sport 2 HD" tvg-logo="" group-title="WORLD SPOR CHANNELS",UK: BT Sport 2 HD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/88973
+#EXTINF:-1 tvg-id="" tvg-name="UK: BT Sport 3 HD" tvg-logo="" group-title="WORLD SPOR CHANNELS",UK: BT Sport 3 HD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/88975
+#EXTINF:-1 tvg-id="" tvg-name="UK: BT Sport ESPN HD" tvg-logo="" group-title="WORLD SPOR CHANNELS",UK: BT Sport ESPN HD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/88977
+#EXTINF:-1 tvg-id="" tvg-name="UK: BT Sport Extra 1" tvg-logo="" group-title="WORLD SPOR CHANNELS",UK: BT Sport Extra 1
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/88978
+#EXTINF:-1 tvg-id="" tvg-name="UK: BT Sport Extra 2" tvg-logo="" group-title="WORLD SPOR CHANNELS",UK: BT Sport Extra 2
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/88979
+#EXTINF:-1 tvg-id="" tvg-name="UK: BT Sport Extra 3" tvg-logo="" group-title="WORLD SPOR CHANNELS",UK: BT Sport Extra 3
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/88980
+#EXTINF:-1 tvg-id="" tvg-name="UK: BT Sport Extra 4" tvg-logo="" group-title="WORLD SPOR CHANNELS",UK: BT Sport Extra 4
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/88981
+#EXTINF:-1 tvg-id="" tvg-name="UK: BT Sport Extra 5" tvg-logo="" group-title="WORLD SPOR CHANNELS",UK: BT Sport Extra 5
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/88982
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sport 1 HD" tvg-logo="" group-title="WORLD SPOR CHANNELS",DE: Sport 1 HD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/88983
+#EXTINF:-1 tvg-id="" tvg-name="DE: SPORT1+ HD" tvg-logo="" group-title="WORLD SPOR CHANNELS",DE: SPORT1+ HD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/88985
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport News" tvg-logo="" group-title="WORLD SPOR CHANNELS",DE: Sky Sport News
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/88987
+#EXTINF:-1 tvg-id="" tvg-name="DE: Eurosport 1 HD" tvg-logo="" group-title="WORLD SPOR CHANNELS",DE: Eurosport 1 HD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/88989
+#EXTINF:-1 tvg-id="" tvg-name="DE: Eurosport 2 HD" tvg-logo="" group-title="WORLD SPOR CHANNELS",DE: Eurosport 2 HD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/88990
+#EXTINF:-1 tvg-id="" tvg-name="DE: Eurosport 2 XTRA HD" tvg-logo="" group-title="WORLD SPOR CHANNELS",DE: Eurosport 2 XTRA HD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/88991
+#EXTINF:-1 tvg-id="" tvg-name="DE: Dazn Sport 1 HD" tvg-logo="" group-title="WORLD SPOR CHANNELS",DE: Dazn Sport 1 HD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/88992
+#EXTINF:-1 tvg-id="" tvg-name="DE: Dazn Sport 2 FHD" tvg-logo="" group-title="WORLD SPOR CHANNELS",DE: Dazn Sport 2 FHD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/88993
+#EXTINF:-1 tvg-id="" tvg-name="GR: Cosmote Sport 1 HD" tvg-logo="" group-title="WORLD SPOR CHANNELS",GR: Cosmote Sport 1 HD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/88994
+#EXTINF:-1 tvg-id="" tvg-name="GR: Cosmote Sport 2 HD" tvg-logo="" group-title="WORLD SPOR CHANNELS",GR: Cosmote Sport 2 HD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/88995
+#EXTINF:-1 tvg-id="" tvg-name="GR: Cosmote Sport 3 HD" tvg-logo="" group-title="WORLD SPOR CHANNELS",GR: Cosmote Sport 3 HD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/88996
+#EXTINF:-1 tvg-id="" tvg-name="GR: Cosmote Sport 4 HD" tvg-logo="" group-title="WORLD SPOR CHANNELS",GR: Cosmote Sport 4 HD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/88997
+#EXTINF:-1 tvg-id="" tvg-name="GR: Cosmote Sport 5 HD" tvg-logo="" group-title="WORLD SPOR CHANNELS",GR: Cosmote Sport 5 HD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/88998
+#EXTINF:-1 tvg-id="" tvg-name="GR: Cosmote Sport 6 HD" tvg-logo="" group-title="WORLD SPOR CHANNELS",GR: Cosmote Sport 6 HD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/88999
+#EXTINF:-1 tvg-id="" tvg-name="GR: Cosmote Sport 7 HD" tvg-logo="" group-title="WORLD SPOR CHANNELS",GR: Cosmote Sport 7 HD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89000
+#EXTINF:-1 tvg-id="" tvg-name="GR: Cosmote Sport 8 HD" tvg-logo="" group-title="WORLD SPOR CHANNELS",GR: Cosmote Sport 8 HD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89001
+#EXTINF:-1 tvg-id="" tvg-name="RO: Telekom Sport 1" tvg-logo="" group-title="WORLD SPOR CHANNELS",RO: Telekom Sport 1
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89002
+#EXTINF:-1 tvg-id="" tvg-name="RO: Telekom Sport 2" tvg-logo="" group-title="WORLD SPOR CHANNELS",RO: Telekom Sport 2
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89003
+#EXTINF:-1 tvg-id="" tvg-name="RO: Telekom Sport 3" tvg-logo="" group-title="WORLD SPOR CHANNELS",RO: Telekom Sport 3
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89004
+#EXTINF:-1 tvg-id="" tvg-name="RO: Telekom Sport 4" tvg-logo="" group-title="WORLD SPOR CHANNELS",RO: Telekom Sport 4
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89005
+#EXTINF:-1 tvg-id="" tvg-name="RO: Telekom Sport 5  [Live During Events Only]" tvg-logo="" group-title="WORLD SPOR CHANNELS",RO: Telekom Sport 5  [Live During Events Only]
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89006
+#EXTINF:-1 tvg-id="" tvg-name="RO: DIGI Sport 1" tvg-logo="" group-title="WORLD SPOR CHANNELS",RO: DIGI Sport 1
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89007
+#EXTINF:-1 tvg-id="" tvg-name="RO: DIGI Sport 1 FHD" tvg-logo="" group-title="WORLD SPOR CHANNELS",RO: DIGI Sport 1 FHD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89008
+#EXTINF:-1 tvg-id="" tvg-name="RO: DIGI Sport 2" tvg-logo="" group-title="WORLD SPOR CHANNELS",RO: DIGI Sport 2
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89009
+#EXTINF:-1 tvg-id="" tvg-name="RO: DIGI Sport 2 FHD" tvg-logo="" group-title="WORLD SPOR CHANNELS",RO: DIGI Sport 2 FHD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89010
+#EXTINF:-1 tvg-id="" tvg-name="RO: Digi Sport 3" tvg-logo="" group-title="WORLD SPOR CHANNELS",RO: Digi Sport 3
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89011
+#EXTINF:-1 tvg-id="" tvg-name="RO: Digi Sport 3 FHD" tvg-logo="" group-title="WORLD SPOR CHANNELS",RO: Digi Sport 3 FHD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89012
+#EXTINF:-1 tvg-id="" tvg-name="RO: DIGI Sport 4" tvg-logo="" group-title="WORLD SPOR CHANNELS",RO: DIGI Sport 4
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89013
+#EXTINF:-1 tvg-id="" tvg-name="RO: Digi Sport 4 FHD" tvg-logo="" group-title="WORLD SPOR CHANNELS",RO: Digi Sport 4 FHD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89014
+#EXTINF:-1 tvg-id="" tvg-name="LT: TV3 SPORT 2 FHD" tvg-logo="" group-title="WORLD SPOR CHANNELS",LT: TV3 SPORT 2 FHD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89015
+#EXTINF:-1 tvg-id="" tvg-name="LT: TV3 SPORT FHD" tvg-logo="" group-title="WORLD SPOR CHANNELS",LT: TV3 SPORT FHD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89016
+#EXTINF:-1 tvg-id="" tvg-name="LT: SPORT 1 BALTIC" tvg-logo="" group-title="WORLD SPOR CHANNELS",LT: SPORT 1 BALTIC
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89017
+#EXTINF:-1 tvg-id="" tvg-name="PH: BEIN SPORTS 1 HD" tvg-logo="" group-title="WORLD SPOR CHANNELS",PH: BEIN SPORTS 1 HD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89018
+#EXTINF:-1 tvg-id="" tvg-name="PH: BEIN SPORTS 2 HD" tvg-logo="" group-title="WORLD SPOR CHANNELS",PH: BEIN SPORTS 2 HD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89019
+#EXTINF:-1 tvg-id="" tvg-name="PH: BEIN SPORTS 3 HD" tvg-logo="" group-title="WORLD SPOR CHANNELS",PH: BEIN SPORTS 3 HD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89020
+#EXTINF:-1 tvg-id="" tvg-name="MY: FOX SPORTS 1" tvg-logo="" group-title="WORLD SPOR CHANNELS",MY: FOX SPORTS 1
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89021
+#EXTINF:-1 tvg-id="" tvg-name="MY: FOX SPORTS 2" tvg-logo="" group-title="WORLD SPOR CHANNELS",MY: FOX SPORTS 2
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89022
+#EXTINF:-1 tvg-id="" tvg-name="MY: FOX SPORTS 3" tvg-logo="" group-title="WORLD SPOR CHANNELS",MY: FOX SPORTS 3
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89023
+#EXTINF:-1 tvg-id="" tvg-name="MY: FLOW SPORTS EPL 1 HD-PPV" tvg-logo="" group-title="WORLD SPOR CHANNELS",MY: FLOW SPORTS EPL 1 HD-PPV
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89024
+#EXTINF:-1 tvg-id="" tvg-name="MY: FLOW SPORTS EPL 2 HD-PPV" tvg-logo="" group-title="WORLD SPOR CHANNELS",MY: FLOW SPORTS EPL 2 HD-PPV
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89025
+#EXTINF:-1 tvg-id="" tvg-name="MY: FLOW SPORTS EPL 3 HD-PPV" tvg-logo="" group-title="WORLD SPOR CHANNELS",MY: FLOW SPORTS EPL 3 HD-PPV
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89026
+#EXTINF:-1 tvg-id="" tvg-name="MY: FLOW SPORTS EPL 4 HD-PPV" tvg-logo="" group-title="WORLD SPOR CHANNELS",MY: FLOW SPORTS EPL 4 HD-PPV
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89027
+#EXTINF:-1 tvg-id="" tvg-name="MY: FLOW SPORTS EPL 5 HD-PPV" tvg-logo="" group-title="WORLD SPOR CHANNELS",MY: FLOW SPORTS EPL 5 HD-PPV
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89028
+#EXTINF:-1 tvg-id="" tvg-name="MY: FLOW SPORTS EPL 6 HD-PPV" tvg-logo="" group-title="WORLD SPOR CHANNELS",MY: FLOW SPORTS EPL 6 HD-PPV
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89029
+#EXTINF:-1 tvg-id="" tvg-name="MY: FLOW SPORTS HD" tvg-logo="" group-title="WORLD SPOR CHANNELS",MY: FLOW SPORTS HD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89030
+#EXTINF:-1 tvg-id="" tvg-name="MY: FLOW SPORTS P.L HD" tvg-logo="" group-title="WORLD SPOR CHANNELS",MY: FLOW SPORTS P.L HD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89031
+#EXTINF:-1 tvg-id="" tvg-name="MY: ASTRO SUPERSPORTS 1 HD" tvg-logo="" group-title="WORLD SPOR CHANNELS",MY: ASTRO SUPERSPORTS 1 HD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89032
+#EXTINF:-1 tvg-id="" tvg-name="MY: ASTRO SUPERSPORTS 2 HD" tvg-logo="" group-title="WORLD SPOR CHANNELS",MY: ASTRO SUPERSPORTS 2 HD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89033
+#EXTINF:-1 tvg-id="" tvg-name="MY: ASTRO SUPERSPORTS 3 HD" tvg-logo="" group-title="WORLD SPOR CHANNELS",MY: ASTRO SUPERSPORTS 3 HD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89034
+#EXTINF:-1 tvg-id="" tvg-name="MY: ASTRO SUPERSPORTS 4 HD" tvg-logo="" group-title="WORLD SPOR CHANNELS",MY: ASTRO SUPERSPORTS 4 HD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89035
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Arena Sport 1 HR" tvg-logo="" group-title="WORLD SPOR CHANNELS",EX YU: Arena Sport 1 HR
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89036
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Arena Sport 2 HR" tvg-logo="" group-title="WORLD SPOR CHANNELS",EX YU: Arena Sport 2 HR
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89037
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Arena Sport 3 HR" tvg-logo="" group-title="WORLD SPOR CHANNELS",EX YU: Arena Sport 3 HR
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89038
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Arena Sport 4 HR" tvg-logo="" group-title="WORLD SPOR CHANNELS",EX YU: Arena Sport 4 HR
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89039
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Arena Sport 5 HR" tvg-logo="" group-title="WORLD SPOR CHANNELS",EX YU: Arena Sport 5 HR
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89040
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Arena Sport 6 HR" tvg-logo="" group-title="WORLD SPOR CHANNELS",EX YU: Arena Sport 6 HR
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89041
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Arena Sport 7 HR" tvg-logo="" group-title="WORLD SPOR CHANNELS",EX YU: Arena Sport 7 HR
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89042
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Arena Sport 8 HR" tvg-logo="" group-title="WORLD SPOR CHANNELS",EX YU: Arena Sport 8 HR
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89043
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Arena Sport 9 HR" tvg-logo="" group-title="WORLD SPOR CHANNELS",EX YU: Arena Sport 9 HR
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89044
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Arena Sport 10 HR" tvg-logo="" group-title="WORLD SPOR CHANNELS",EX YU: Arena Sport 10 HR
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89045
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Arena Sport 1 SR" tvg-logo="" group-title="WORLD SPOR CHANNELS",EX YU: Arena Sport 1 SR
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89046
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Arena Sport 2 SR" tvg-logo="" group-title="WORLD SPOR CHANNELS",EX YU: Arena Sport 2 SR
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89047
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Arena Sport 3 SR" tvg-logo="" group-title="WORLD SPOR CHANNELS",EX YU: Arena Sport 3 SR
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89048
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Arena Sport 4 SR" tvg-logo="" group-title="WORLD SPOR CHANNELS",EX YU: Arena Sport 4 SR
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89049
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Arena Sport 5 SR" tvg-logo="" group-title="WORLD SPOR CHANNELS",EX YU: Arena Sport 5 SR
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89050
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Arena Sport 6 SR" tvg-logo="" group-title="WORLD SPOR CHANNELS",EX YU: Arena Sport 6 SR
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89051
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Arena Sport 1 PREMIUM HD (SR)" tvg-logo="" group-title="WORLD SPOR CHANNELS",EX YU: Arena Sport 1 PREMIUM HD (SR)
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89052
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Arena Sport 2 PREMIUM HD (SR)" tvg-logo="" group-title="WORLD SPOR CHANNELS",EX YU: Arena Sport 2 PREMIUM HD (SR)
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89053
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Arena Sport 3 PREMIUM HD (SR)" tvg-logo="" group-title="WORLD SPOR CHANNELS",EX YU: Arena Sport 3 PREMIUM HD (SR)
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89054
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Sport Klub" tvg-logo="" group-title="WORLD SPOR CHANNELS",EX YU: Sport Klub
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89055
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Sport Klub 4 HR" tvg-logo="" group-title="WORLD SPOR CHANNELS",EX YU: Sport Klub 4 HR
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89056
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Sport Klub 5 HR" tvg-logo="" group-title="WORLD SPOR CHANNELS",EX YU: Sport Klub 5 HR
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89057
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Sport Klub 6 HR" tvg-logo="" group-title="WORLD SPOR CHANNELS",EX YU: Sport Klub 6 HR
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89058
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Sport Klub 5 SR" tvg-logo="" group-title="WORLD SPOR CHANNELS",EX YU: Sport Klub 5 SR
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89059
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Sport Klub 6 SR" tvg-logo="" group-title="WORLD SPOR CHANNELS",EX YU: Sport Klub 6 SR
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89060
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Sport Klub 7 SR" tvg-logo="" group-title="WORLD SPOR CHANNELS",EX YU: Sport Klub 7 SR
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89061
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Sport Klub 8 SR" tvg-logo="" group-title="WORLD SPOR CHANNELS",EX YU: Sport Klub 8 SR
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89062
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Sport Klub 9 SR" tvg-logo="" group-title="WORLD SPOR CHANNELS",EX YU: Sport Klub 9 SR
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89063
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Sport Klub 10 SR" tvg-logo="" group-title="WORLD SPOR CHANNELS",EX YU: Sport Klub 10 SR
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89064
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Sport Klub Golf" tvg-logo="" group-title="WORLD SPOR CHANNELS",EX YU: Sport Klub Golf
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89065
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Sport TV 1 SLO" tvg-logo="" group-title="WORLD SPOR CHANNELS",EX YU: Sport TV 1 SLO
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89067
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Sport TV 2 SLO" tvg-logo="" group-title="WORLD SPOR CHANNELS",EX YU: Sport TV 2 SLO
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89068
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Sport TV 3 SLO" tvg-logo="" group-title="WORLD SPOR CHANNELS",EX YU: Sport TV 3 SLO
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89069
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Eurosport 1 SR" tvg-logo="" group-title="WORLD SPOR CHANNELS",EX YU: Eurosport 1 SR
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89070
+#EXTINF:-1 tvg-id="" tvg-name="BG: Max Sport 1 HD" tvg-logo="" group-title="WORLD SPOR CHANNELS",BG: Max Sport 1 HD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89071
+#EXTINF:-1 tvg-id="" tvg-name="BG: Max Sport 2 HD" tvg-logo="" group-title="WORLD SPOR CHANNELS",BG: Max Sport 2 HD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89072
+#EXTINF:-1 tvg-id="" tvg-name="BG: Max Sport 3 HD" tvg-logo="" group-title="WORLD SPOR CHANNELS",BG: Max Sport 3 HD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89073
+#EXTINF:-1 tvg-id="" tvg-name="BG: Max Sport 4 FHD" tvg-logo="" group-title="WORLD SPOR CHANNELS",BG: Max Sport 4 FHD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89074
+#EXTINF:-1 tvg-id="" tvg-name="BG: Diema Sport HD" tvg-logo="" group-title="WORLD SPOR CHANNELS",BG: Diema Sport HD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89075
+#EXTINF:-1 tvg-id="" tvg-name="BG: DIEMA SPORT 2 HD" tvg-logo="" group-title="WORLD SPOR CHANNELS",BG: DIEMA SPORT 2 HD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89076
+#EXTINF:-1 tvg-id="" tvg-name="ES: MULTIDEPORTES" tvg-logo="" group-title="WORLD SPOR CHANNELS",ES: MULTIDEPORTES
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89077
+#EXTINF:-1 tvg-id="" tvg-name="ES: MULTIDEPORTES 1" tvg-logo="" group-title="WORLD SPOR CHANNELS",ES: MULTIDEPORTES 1
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89078
+#EXTINF:-1 tvg-id="" tvg-name="ES: MULTIDEPORTES 1 HD" tvg-logo="" group-title="WORLD SPOR CHANNELS",ES: MULTIDEPORTES 1 HD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89079
+#EXTINF:-1 tvg-id="" tvg-name="ES: MULTIDEPORTES 2" tvg-logo="" group-title="WORLD SPOR CHANNELS",ES: MULTIDEPORTES 2
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89080
+#EXTINF:-1 tvg-id="" tvg-name="ES: MULTIDEPORTES 2 HD" tvg-logo="" group-title="WORLD SPOR CHANNELS",ES: MULTIDEPORTES 2 HD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89081
+#EXTINF:-1 tvg-id="" tvg-name="ES: MULTIDEPORTES 3" tvg-logo="" group-title="WORLD SPOR CHANNELS",ES: MULTIDEPORTES 3
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89082
+#EXTINF:-1 tvg-id="" tvg-name="ES: MULTIDEPORTES 3 HD" tvg-logo="" group-title="WORLD SPOR CHANNELS",ES: MULTIDEPORTES 3 HD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89083
+#EXTINF:-1 tvg-id="" tvg-name="ES: MULTIDEPORTES 4" tvg-logo="" group-title="WORLD SPOR CHANNELS",ES: MULTIDEPORTES 4
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89084
+#EXTINF:-1 tvg-id="" tvg-name="ES: MULTIDEPORTES 5" tvg-logo="" group-title="WORLD SPOR CHANNELS",ES: MULTIDEPORTES 5
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89085
+#EXTINF:-1 tvg-id="" tvg-name="ES: MULTIDEPORTES 6" tvg-logo="" group-title="WORLD SPOR CHANNELS",ES: MULTIDEPORTES 6
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89086
+#EXTINF:-1 tvg-id="" tvg-name="ES: MULTIDEPORTES 7" tvg-logo="" group-title="WORLD SPOR CHANNELS",ES: MULTIDEPORTES 7
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89087
+#EXTINF:-1 tvg-id="" tvg-name="ES: MULTIDEPORTES 8" tvg-logo="" group-title="WORLD SPOR CHANNELS",ES: MULTIDEPORTES 8
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89088
+#EXTINF:-1 tvg-id="" tvg-name="ES: MULTIDEPORTES HD" tvg-logo="" group-title="WORLD SPOR CHANNELS",ES: MULTIDEPORTES HD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89089
+#EXTINF:-1 tvg-id="" tvg-name="ES: MULTIFUTBOLL 1" tvg-logo="" group-title="WORLD SPOR CHANNELS",ES: MULTIFUTBOLL 1
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89090
+#EXTINF:-1 tvg-id="" tvg-name="ES: MULTIFUTBOLL 2" tvg-logo="" group-title="WORLD SPOR CHANNELS",ES: MULTIFUTBOLL 2
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89091
+#EXTINF:-1 tvg-id="" tvg-name="ES: MULTIFUTBOLL 3" tvg-logo="" group-title="WORLD SPOR CHANNELS",ES: MULTIFUTBOLL 3
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89092
+#EXTINF:-1 tvg-id="" tvg-name="ES: MULTIFUTBOLL 4" tvg-logo="" group-title="WORLD SPOR CHANNELS",ES: MULTIFUTBOLL 4
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89093
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. GOLF HD" tvg-logo="" group-title="WORLD SPOR CHANNELS",ES: M. GOLF HD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89094
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. LALIGA TV 1" tvg-logo="" group-title="WORLD SPOR CHANNELS",ES: M. LALIGA TV 1
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89095
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. LALIGA TV 1 HD" tvg-logo="" group-title="WORLD SPOR CHANNELS",ES: M. LALIGA TV 1 HD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89096
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. LALIGA TV 10" tvg-logo="" group-title="WORLD SPOR CHANNELS",ES: M. LALIGA TV 10
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89097
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. LALIGA TV 2" tvg-logo="" group-title="WORLD SPOR CHANNELS",ES: M. LALIGA TV 2
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89098
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. LALIGA TV 2 HD" tvg-logo="" group-title="WORLD SPOR CHANNELS",ES: M. LALIGA TV 2 HD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89099
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. LALIGA TV 3" tvg-logo="" group-title="WORLD SPOR CHANNELS",ES: M. LALIGA TV 3
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89100
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. LALIGA TV 3 HD" tvg-logo="" group-title="WORLD SPOR CHANNELS",ES: M. LALIGA TV 3 HD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89101
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. LALIGA TV 4" tvg-logo="" group-title="WORLD SPOR CHANNELS",ES: M. LALIGA TV 4
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89102
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. LALIGA TV 5" tvg-logo="" group-title="WORLD SPOR CHANNELS",ES: M. LALIGA TV 5
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89103
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. LALIGA TV 6" tvg-logo="" group-title="WORLD SPOR CHANNELS",ES: M. LALIGA TV 6
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89104
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. LALIGA TV 7" tvg-logo="" group-title="WORLD SPOR CHANNELS",ES: M. LALIGA TV 7
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89105
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. LALIGA TV 8" tvg-logo="" group-title="WORLD SPOR CHANNELS",ES: M. LALIGA TV 8
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89106
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. LALIGA TV 9" tvg-logo="" group-title="WORLD SPOR CHANNELS",ES: M. LALIGA TV 9
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89107
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. LALIGA TV HD" tvg-logo="" group-title="WORLD SPOR CHANNELS",ES: M. LALIGA TV HD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89108
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. LALIGA TV" tvg-logo="" group-title="WORLD SPOR CHANNELS",ES: M. LALIGA TV
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89109
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. Liga De Campeones" tvg-logo="" group-title="WORLD SPOR CHANNELS",ES: M. Liga De Campeones
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89110
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. Liga De Campeones 1" tvg-logo="" group-title="WORLD SPOR CHANNELS",ES: M. Liga De Campeones 1
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89111
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. Liga De Campeones 1 HD" tvg-logo="" group-title="WORLD SPOR CHANNELS",ES: M. Liga De Campeones 1 HD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89112
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. Liga De Campeones 2 ( LIVE EVENT )" tvg-logo="" group-title="WORLD SPOR CHANNELS",ES: M. Liga De Campeones 2 ( LIVE EVENT )
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89113
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. Liga De Campeones 2 HD" tvg-logo="" group-title="WORLD SPOR CHANNELS",ES: M. Liga De Campeones 2 HD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89114
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. Liga De Campeones 3 ( LIVE EVENT )" tvg-logo="" group-title="WORLD SPOR CHANNELS",ES: M. Liga De Campeones 3 ( LIVE EVENT )
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89115
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. Liga De Campeones 4 ( LIVE EVENT )" tvg-logo="" group-title="WORLD SPOR CHANNELS",ES: M. Liga De Campeones 4 ( LIVE EVENT )
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89116
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. Liga De Campeones 5 ( LIVE EVENT )" tvg-logo="" group-title="WORLD SPOR CHANNELS",ES: M. Liga De Campeones 5 ( LIVE EVENT )
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89117
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. Liga De Campeones 6 ( LIVE EVENT )" tvg-logo="" group-title="WORLD SPOR CHANNELS",ES: M. Liga De Campeones 6 ( LIVE EVENT )
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89118
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. Liga De Campeones 7 ( LIVE EVENT )" tvg-logo="" group-title="WORLD SPOR CHANNELS",ES: M. Liga De Campeones 7 ( LIVE EVENT )
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89119
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. Liga De Campeones 8 ( LIVE EVENT )" tvg-logo="" group-title="WORLD SPOR CHANNELS",ES: M. Liga De Campeones 8 ( LIVE EVENT )
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89120
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. Liga De Campeones FHD" tvg-logo="" group-title="WORLD SPOR CHANNELS",ES: M. Liga De Campeones FHD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89121
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. Liga De Campeones HD" tvg-logo="" group-title="WORLD SPOR CHANNELS",ES: M. Liga De Campeones HD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89122
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN 1" tvg-logo="" group-title="WORLD SPOR CHANNELS",ES: DAZN 1
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89123
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN 1 HD" tvg-logo="" group-title="WORLD SPOR CHANNELS",ES: DAZN 1 HD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89124
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN 2 HD" tvg-logo="" group-title="WORLD SPOR CHANNELS",ES: DAZN 2 HD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89125
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN 3" tvg-logo="" group-title="WORLD SPOR CHANNELS",ES: DAZN 3
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89126
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN 3 HD" tvg-logo="" group-title="WORLD SPOR CHANNELS",ES: DAZN 3 HD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89127
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN 4" tvg-logo="" group-title="WORLD SPOR CHANNELS",ES: DAZN 4
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89128
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN 4 HD" tvg-logo="" group-title="WORLD SPOR CHANNELS",ES: DAZN 4 HD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89129
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN F1 1 HD" tvg-logo="" group-title="WORLD SPOR CHANNELS",ES: DAZN F1 1 HD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89130
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV+ HD" tvg-logo="" group-title="WORLD SPOR CHANNELS",PT: SPORT TV+ HD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89131
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1" tvg-logo="" group-title="WORLD SPOR CHANNELS",PT: SPORT TV 1
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89132
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1 HD" tvg-logo="" group-title="WORLD SPOR CHANNELS",PT: SPORT TV 1 HD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89133
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1 HD" tvg-logo="" group-title="WORLD SPOR CHANNELS",PT: SPORT TV 1 HD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89134
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 2" tvg-logo="" group-title="WORLD SPOR CHANNELS",PT: SPORT TV 2
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89135
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 2 HD" tvg-logo="" group-title="WORLD SPOR CHANNELS",PT: SPORT TV 2 HD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89136
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 2 HD" tvg-logo="" group-title="WORLD SPOR CHANNELS",PT: SPORT TV 2 HD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89138
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 3" tvg-logo="" group-title="WORLD SPOR CHANNELS",PT: SPORT TV 3
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89139
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 3 HD" tvg-logo="" group-title="WORLD SPOR CHANNELS",PT: SPORT TV 3 HD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89140
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 3 HD" tvg-logo="" group-title="WORLD SPOR CHANNELS",PT: SPORT TV 3 HD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89141
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 4" tvg-logo="" group-title="WORLD SPOR CHANNELS",PT: SPORT TV 4
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89142
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 4" tvg-logo="" group-title="WORLD SPOR CHANNELS",PT: SPORT TV 4
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89143
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 4 HD" tvg-logo="" group-title="WORLD SPOR CHANNELS",PT: SPORT TV 4 HD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89144
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 5" tvg-logo="" group-title="WORLD SPOR CHANNELS",PT: SPORT TV 5
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89145
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 5" tvg-logo="" group-title="WORLD SPOR CHANNELS",PT: SPORT TV 5
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89146
+
+#EXTINF:-1 tvg-id="" tvg-name="BR: SporTV 3" tvg-logo="" group-title="WORLD SPOR CHANNELS",BR: SporTV 3
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89220
+#EXTINF:-1 tvg-id="" tvg-name="BR: SporTV 2" tvg-logo="" group-title="WORLD SPOR CHANNELS",BR: SporTV 2
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89221
+#EXTINF:-1 tvg-id="" tvg-name="BR: SporTV 1" tvg-logo="" group-title="WORLD SPOR CHANNELS",BR: SporTV 1
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89222
+#EXTINF:-1 tvg-id="" tvg-name="BR: ESPN2 HD" tvg-logo="" group-title="WORLD SPOR CHANNELS",BR: ESPN2 HD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89223
+#EXTINF:-1 tvg-id="" tvg-name="BR: ESPN BRASIL HD" tvg-logo="" group-title="WORLD SPOR CHANNELS",BR: ESPN BRASIL HD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89224
+#EXTINF:-1 tvg-id="" tvg-name="BR: ESPN HD" tvg-logo="" group-title="WORLD SPOR CHANNELS",BR: ESPN HD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89225
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Sport Klub 3 SR" tvg-logo="" group-title="WORLD SPOR CHANNELS",EX YU: Sport Klub 3 SR
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/12559
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Sport Klub 2 SR" tvg-logo="" group-title="WORLD SPOR CHANNELS",EX YU: Sport Klub 2 SR
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/12560
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Sport Klub 1 HR" tvg-logo="" group-title="WORLD SPOR CHANNELS",EX YU: Sport Klub 1 HR
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/12561
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Sport Klub 1 SR" tvg-logo="" group-title="WORLD SPOR CHANNELS",EX YU: Sport Klub 1 SR
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/12562
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Sport Klub 2 HR" tvg-logo="" group-title="WORLD SPOR CHANNELS",EX YU: Sport Klub 2 HR
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/12563
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Sport Klub 3 HR" tvg-logo="" group-title="WORLD SPOR CHANNELS",EX YU: Sport Klub 3 HR
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/12564
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Sport Klub 4 SR" tvg-logo="" group-title="WORLD SPOR CHANNELS",EX YU: Sport Klub 4 SR
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/12691
+
+#EXTINF:-1 tvg-id="" tvg-name="US: beIN Sports 1 FHD" tvg-logo="" group-title="USA CHANNELS",US: beIN Sports 1 FHD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/144124
+#EXTINF:-1 tvg-id="" tvg-name="US: beIN Sports 5 FHD" tvg-logo="" group-title="USA CHANNELS",US: beIN Sports 5 FHD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/144125
+#EXTINF:-1 tvg-id="" tvg-name="US: beIN Sports 3 HD" tvg-logo="" group-title="USA CHANNELS",US: beIN Sports 3 HD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/144127
+#EXTINF:-1 tvg-id="" tvg-name="US: beIN Sports 7 HD" tvg-logo="" group-title="USA CHANNELS",US: beIN Sports 7 HD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/144128
+#EXTINF:-1 tvg-id="" tvg-name="US: beIN Sports FHD" tvg-logo="" group-title="USA CHANNELS",US: beIN Sports FHD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/144129
+#EXTINF:-1 tvg-id="" tvg-name="US: ESPN 2 HD" tvg-logo="" group-title="USA CHANNELS",US: ESPN 2 HD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/144302
+#EXTINF:-1 tvg-id="" tvg-name="US: ESPN 3 HD" tvg-logo="" group-title="USA CHANNELS",US: ESPN 3 HD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/144303
+#EXTINF:-1 tvg-id="" tvg-name="US: ESPN HD" tvg-logo="" group-title="USA CHANNELS",US: ESPN HD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/144304
+#EXTINF:-1 tvg-id="" tvg-name="US ESPN HD" tvg-logo="" group-title="USA CHANNELS",US ESPN HD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/144305
+#EXTINF:-1 tvg-id="" tvg-name="US: ESPN News HD" tvg-logo="" group-title="USA CHANNELS",US: ESPN News HD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/144306
+#EXTINF:-1 tvg-id="" tvg-name="US: ESPNU HD" tvg-logo="" group-title="USA CHANNELS",US: ESPNU HD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/144307
+
+#EXTINF:-1 tvg-id="" tvg-name="US: Fox Soccer Plus HD" tvg-logo="" group-title="USA CHANNELS",US: Fox Soccer Plus HD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/144336
+#EXTINF:-1 tvg-id="" tvg-name="US: FOX SPORTS Detroit HD" tvg-logo="" group-title="USA CHANNELS",US: FOX SPORTS Detroit HD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/144337
+#EXTINF:-1 tvg-id="" tvg-name="US: FOX SPORTS Midwest HD" tvg-logo="" group-title="USA CHANNELS",US: FOX SPORTS Midwest HD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/144338
+#EXTINF:-1 tvg-id="" tvg-name="US: FOX SPORTS Oklahoma HD" tvg-logo="" group-title="USA CHANNELS",US: FOX SPORTS Oklahoma HD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/144339
+#EXTINF:-1 tvg-id="" tvg-name="US: FOX SPORTS Racing HD" tvg-logo="" group-title="USA CHANNELS",US: FOX un SPORTS Racing HD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/144340
+#EXTINF:-1 tvg-id="" tvg-name="US: FOX SPORTS South Carolina HD" tvg-logo="" group-title="USA CHANNELS",US: FOX SPORTS South Carolina HD
+http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/144341
